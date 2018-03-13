@@ -1,0 +1,27 @@
+{
+  "name": "Tarea_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "generic-pool": "^3.4.2",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.21.0",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.1",
+    "sql-escape": "^1.0.1",
+    "sqlstring": "^2.3.1"
+  },
+  "devDependencies": {
+    "sinon-stub-promise": "^4.0.0"
+  }
+}
